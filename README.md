@@ -209,7 +209,7 @@ circuit</td>
 <br><br>
 <h2 align="center"><b>FLOW OF EXECUTION</b></h2>
 <br><br>
-<img src="C:\Users\aarus\Downloads\flowchart.jpg" />
+<img src="C:\Users\aarus\Downloads\flowchart.jpeg" />
 
 
 
