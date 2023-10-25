@@ -228,6 +228,7 @@ circuit</td>
 ![5](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/1d8c7c50-c2b5-4299-8906-59bdaa299a10) <br>
 <br>
 <b>VERILOG OUTPUT (big output divided in small sections)</b> <br>
+[custom.pdf](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/files/13166940/custom.pdf) <br>
 
 
 
