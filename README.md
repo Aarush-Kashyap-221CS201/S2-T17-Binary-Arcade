@@ -6,7 +6,7 @@
 2. Amit Kumar 221CS207
 3. Shashank Prabhakar 221CS246
 <br>
-<h2 align="center"><b>Abstract</b></h1>
+<h2 align="center"><b>ABSTRACT</b></h1>
 
 **IDEA**
 
@@ -206,8 +206,10 @@ circuit. Reset button resets the
 circuit</td>
   </tr>
 </table>
-
-
+<br><br>
+<h2 align="center"><b>FLOW OF EXECUTION</b></h2>
+<br><br>
+<img src="C:\Users\aarus\Downloads\flowchart.jpg" />
 
 
 
