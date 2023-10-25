@@ -209,8 +209,6 @@ circuit</td>
 <br><br>
 <h2 align="center"><b>FLOW OF EXECUTION</b></h2>
 <br><br>
-<img src="C:\Users\aarus\Downloads\flowchart.jpeg" />
-
-
+<img src="C:\Users\aarus\Downloads\flowchart.jpeg" alt="sir marks pls nahi ho raha" />
 
  
