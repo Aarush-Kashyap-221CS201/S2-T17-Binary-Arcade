@@ -209,6 +209,6 @@ circuit</td>
 <br><br>
 <h2 align="center"><b>FLOW OF EXECUTION</b></h2>
 <br><br>
-<img src="C:\\Users\aarus\Downloads\flowchart.jpeg" />
+![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/3c444026-31a2-4f92-b8bf-68eae2a45439)
 
  
