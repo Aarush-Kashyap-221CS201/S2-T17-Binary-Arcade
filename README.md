@@ -1,10 +1,14 @@
 # S2-T17-Binary-Arcade
 **This repository contains everything related to our project on Binary Arcade, ranging from Verilog Code and Logisim to theoretical descriptions.**
 <br><br>
-**Members**
-1. Aarush Kashyap 221CS201 aarushk.221cs201@nitk.edu.in
-2. Amit Kumar 221CS207 amitkumar.221cs207@nitk.edu.in
-3. Shashank Prabhakar 221CS246 sam.221cs246@nitk.edu.in
+**Team Details** <br>
+<details>
+  <summary>Detail</summary>
+  **Members**
+  1. Aarush Kashyap 221CS201 aarushk.221cs201@nitk.edu.in
+  2. Amit Kumar 221CS207 amitkumar.221cs207@nitk.edu.in
+  3. Shashank Prabhakar 221CS246 sam.221cs246@nitk.edu.in
+</details>
 <br>
 <h2 align="center"><b>ABSTRACT</b></h1>
 
