@@ -219,24 +219,10 @@ circuit</td>
 ![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/3c444026-31a2-4f92-b8bf-68eae2a45439)
 </details>
 <br><br>
-<b>Truth Table</b><br>
+<h2 align="center"><b>Truth Table</b></h2><br>
 ![truth_table](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/2cfc2db7-d319-4c51-9339-f53eaa432473)
 <br><br>
-<h2 align="center"><b>Results</b></h2>
-<br><br>
-<b>GTKWAVE</b><br>
-![gtkwave](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/e82519e8-61d1-4521-ade1-3414a020fe69)
-<br><br>
-<b>Logisim screenshoots during game playthrough</b><br>
-![1](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/c8a609ff-3d16-4a4a-80dc-1211a8438f0d) <br>
-![2](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/5cfc902e-2043-40ac-b891-5b17ffbe1d40) <br>
-![3](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/921a59c5-75d0-467e-99f6-fb17fd34ada1) <br>
-![4](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/e34c2c06-128c-444f-9047-d7eb1b571ed7) <br>
-![5](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/1d8c7c50-c2b5-4299-8906-59bdaa299a10) <br>
-<br>
-<b>VERILOG OUTPUT</b> <br>
-[output.pdf](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/files/13166961/output.pdf) <br><br><br>
-<h2 align="center">THANK YOU!!</h2>
+
 
 
 
