@@ -231,35 +231,35 @@ circuit</td>
 <details>
   <summary>Detail</summary><br>
   <b>TESTBENCH</b> <br><br>
-  `include "binary_arcade.v" //including the module file
+`include "binary_arcade.v" //including the module file
 
 module binary_arcade_tb;
 
-//all variables used in this code
+  //all variables used in this code
 
-reg[0:3] user_input; //this is the user input (binary representation of randomly generated number)
+  reg[0:3] user_input; //this is the user input (binary representation of randomly generated number)
 
-reg[0:3] random_number; //this is the random number generated in decimal form
+  reg[0:3] random_number; //this is the random number generated in decimal form
 
-reg clk; //this is the clock
+  reg clk; //this is the clock
 
-reg reset; //reset button, 1 if we need to reset counter, 0 if counter is operating as usual
+  reg reset; //reset button, 1 if we need to reset counter, 0 if counter is operating as usual
 
-wire[0:3] x; //counter, only incremented if user_input=correct binary representation of random_number
+  wire[0:3] x; //counter, only incremented if user_input=correct binary representation of random_number
 
-//instantiation
+  //instantiation
 
-counter uut( 
+  counter uut( 
     .user_input(user_input),
     .random_number(random_number),
     .clk(clk),
     .reset(reset),
     .x(x) 
-);
+  );
 
-//starting the code
+  //starting the code
 
-initial begin
+  initial begin
 
     //making the vcd(gtkwave) file
     $dumpfile("binary_arcade.vcd");
@@ -283,9 +283,9 @@ initial begin
     //start counter
     reset=0;
     
-end
-always #5 clk=~clk; //clock is being triggered every 5 ns
-always #5 random_number=$random; //b is being randomly generated every time clock triggers
+  end
+  always #5 clk=~clk; //clock is being triggered every 5 ns
+  always #5 random_number=$random; //b is being randomly generated every time clock triggers
 endmodule
 <br><br>
 <b> MODULE FILE </b><br><br>
