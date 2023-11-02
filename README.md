@@ -215,7 +215,7 @@ circuit</td>
   </tr>
 </table>
 <br><br>
-<b>Flowchart</b><br>
+<h2 align="center"><b>Flowchart</b></h2><br>
 ![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/3c444026-31a2-4f92-b8bf-68eae2a45439)
 </details>
 <br><br>
