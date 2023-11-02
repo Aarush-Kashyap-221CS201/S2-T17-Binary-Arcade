@@ -291,6 +291,8 @@ module binary_arcade_tb;
 endmodule
 ```
 
+<b>Module File</b>
+
 ```
 module counter(input[0:3] user_input,input[0:3] random_number,input clk,input reset,output[0:3] x);
     
