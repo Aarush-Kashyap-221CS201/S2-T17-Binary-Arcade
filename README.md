@@ -17,12 +17,9 @@
   <b>IDEA</b><br><br>
   The idea of this project is to provide the users with a fruitful and
   enjoyable experience and enhance their calculation skills and binary
-  knowledge at the same time by employing a binary game.<br>
+  knowledge at the same time by employing a binary game.<br><br>
 
-
-
-
-**COMPONENTS**
+  **COMPONENTS**
 
 -Breadboard
 
