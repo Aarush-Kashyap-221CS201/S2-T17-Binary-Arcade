@@ -1,7 +1,7 @@
 # S2-T17-Binary-Arcade
 **This repository contains everything related to our project on Binary Arcade, ranging from Verilog Code and Logisim to theoretical descriptions.**
 <br><br>
-<h3>Team Details</h3>
+<h2><b>Team Details</b></h3>
 <details>
   <summary>Detail</summary>
   <br> <b>Semester: </b>3rd Sem B.Tech CSE<br><br>
