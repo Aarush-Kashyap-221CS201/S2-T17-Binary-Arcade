@@ -230,7 +230,7 @@ circuit</td>
 <h2><b>Verilog Code</b></h2>
 <details>
   <summary>Detail</summary><br>
-  <b>TESTBENCH</b> <br><br>
+  <b>Testbench</b> <br><br>
 
 ```
 `include "binary_arcade.v" //including the module file
