@@ -231,6 +231,7 @@ circuit</td>
 <details>
   <summary>Detail</summary><br>
   <b>TESTBENCH</b> <br><br>
+```
 `include "binary_arcade.v" //including the module file
 
 module binary_arcade_tb;
@@ -322,6 +323,7 @@ module counter(input[0:3] user_input,input[0:3] random_number,input clk,input re
         end
     end 
 endmodule
+```
 </details>
 <br><br>
 
