@@ -14,10 +14,10 @@
 <h2><b>ABSTRACT</b></h1>
 <details>
   <summary>Detail</summary><br>
-  <b>IDEA</b><br>
+  <b>IDEA</b><br><br>
   The idea of this project is to provide the users with a fruitful and
   enjoyable experience and enhance their calculation skills and binary
-  knowledge at the same time by employing a binary game.
+  knowledge at the same time by employing a binary game.<br>
 
 
 
