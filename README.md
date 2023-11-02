@@ -126,9 +126,9 @@ We all agreed on a start and reset button. The idea of an LED
 bulb for denoting a right and wrong answer was also agreed
 upon. We will also test this project ourselves.
 </details>
-
-
-<br>
+<detail>
+  <summary>Detail</summary>
+  <br>
 <h2 align="center"><b>FUNCTIONAL TABLE</b></h2>
 <br>
 <table align="center">
@@ -212,6 +212,9 @@ circuit. Reset button resets the
 circuit</td>
   </tr>
 </table>
+</detail>
+
+
 <br><br>
 <h2 align="center"><b>FLOW OF EXECUTION</b></h2>
 <br><br>
