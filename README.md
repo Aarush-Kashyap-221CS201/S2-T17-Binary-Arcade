@@ -1,7 +1,7 @@
 # S2-T17-Binary-Arcade
 **This repository contains everything related to our project on Binary Arcade, ranging from Verilog Code and Logisim to theoretical descriptions.**
 <br><br>
-<h3>Team Details</h3> <br>
+<h3>Team Details</h3>
 <details>
   <summary>Detail</summary>
   1. Aarush Kashyap 221CS201 aarushk.221cs201@nitk.edu.in <br>
