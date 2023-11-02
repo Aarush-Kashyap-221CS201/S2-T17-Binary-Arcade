@@ -223,7 +223,7 @@ circuit</td>
 <br><br>
 <h2><b>Logisim Circuit Diagram</b></h2><br><br>
 <details>
-  <summary>Detail</summary><br>
+  <summary>Detail</summary>
   ![logisim](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/ee4f505e-5584-436a-a5e9-a3f84806d689)
 </details>
 <br><br>
