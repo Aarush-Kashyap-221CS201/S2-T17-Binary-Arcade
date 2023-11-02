@@ -3,8 +3,7 @@
 <br><br>
 **Team Details** <br>
 <details>
-  <summary>Detail</summary>
-  **Members**
+  <summary><b>Detail</b></summary>
   1. Aarush Kashyap 221CS201 aarushk.221cs201@nitk.edu.in
   2. Amit Kumar 221CS207 amitkumar.221cs207@nitk.edu.in
   3. Shashank Prabhakar 221CS246 sam.221cs246@nitk.edu.in
