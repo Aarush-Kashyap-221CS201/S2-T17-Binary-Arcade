@@ -289,10 +289,12 @@ module binary_arcade_tb;
   always #5 clk=~clk; //clock is being triggered every 5 ns
   always #5 random_number=$random; //b is being randomly generated every time clock triggers
 endmodule
-
-```
 </details>
 <br><br>
+
+```
+hello
+```
 
 
 
