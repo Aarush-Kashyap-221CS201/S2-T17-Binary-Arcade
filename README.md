@@ -11,7 +11,7 @@
   <b>Member-3: </b>Shashank Prabhakar, 221CS246, sam.221cs246@nitk.edu.in <br>
 </details>
 <br>
-<h2><b>ABSTRACT</b></h1>
+<h2><b>Abstract</b></h1>
 <details>
   <summary>Detail</summary><br>
   <b>IDEA</b><br><br>
