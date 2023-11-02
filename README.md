@@ -12,12 +12,14 @@
 </details>
 <br>
 <h2><b>ABSTRACT</b></h1>
+<details>
+  <summary>Detail</summary><br>
+  <b>IDEA</b><br>
+  The idea of this project is to provide the users with a fruitful and
+  enjoyable experience and enhance their calculation skills and binary
+  knowledge at the same time by employing a binary game.
 
-**IDEA**
 
-The idea of this project is to provide the users with a fruitful and
-enjoyable experience and enhance their calculation skills and binary
-knowledge at the same time by employing a binary game.
 
 
 **COMPONENTS**
@@ -126,6 +128,8 @@ Common
 We all agreed on a start and reset button. The idea of an LED
 bulb for denoting a right and wrong answer was also agreed
 upon. We will also test this project ourselves.
+</details>
+
 
 <br>
 <h2 align="center"><b>FUNCTIONAL TABLE</b></h2>
