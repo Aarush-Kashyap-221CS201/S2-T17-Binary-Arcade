@@ -126,6 +126,8 @@ We all agreed on a start and reset button. The idea of an LED
 bulb for denoting a right and wrong answer was also agreed
 upon. We will also test this project ourselves.
 </details>
+<br>
+<h2><b>Working</b></h2>
 <details>
   <summary>Detail</summary>
   <br>
