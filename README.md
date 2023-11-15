@@ -9,9 +9,7 @@
   <b>Member-1: </b>Aarush Kashyap, 221CS201, aarushk.221cs201@nitk.edu.in <br><br>
   <b>Member-2: </b>Amit Kumar, 221CS207, amitkumar.221cs207@nitk.edu.in <br><br>
   <b>Member-3: </b>Shashank Prabhakar, 221CS246, sam.221cs246@nitk.edu.in <br>
-</details>
-<br>
-<h2><b>Abstract</b></h1>
+</details> <h2><b>Abstract</b></h1>
 <details>
   <summary>Detail</summary><br>
   <b>IDEA</b><br><br>
@@ -125,9 +123,7 @@ Common
 We all agreed on a start and reset button. The idea of an LED
 bulb for denoting a right and wrong answer was also agreed
 upon. We will also test this project ourselves.
-</details>
-<br>
-<h2><b>Working</b></h2>
+</details> <h2><b>Working</b></h2>
 <details>
   <summary>Detail</summary>
   <br>
@@ -219,15 +215,11 @@ circuit</td>
 ![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/3c444026-31a2-4f92-b8bf-68eae2a45439) <br><br>
 <h2 align="center"><b>Truth Table</b></h2><br>
 ![truth_table](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/2cfc2db7-d319-4c51-9339-f53eaa432473)
-</details>
-<br><br>
-<h2><b>Logisim Circuit Diagram</b></h2>
+</details> <h2><b>Logisim Circuit Diagram</b></h2>
 <details>
   <summary>Detail</summary><br>
   ![logisim](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/ee4f505e-5584-436a-a5e9-a3f84806d689)
-</details>
-<br><br>
-<h2><b>Verilog Code</b></h2>
+</details> <h2><b>Verilog Code</b></h2>
 <details>
   <summary>Detail</summary><br>
   <b>Testbench</b> <br><br>
@@ -330,7 +322,6 @@ endmodule
 ```
 
 </details>
-<br><br>
 
 
 
