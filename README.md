@@ -329,7 +329,7 @@ endmodule
 ```
 
 </details>
-<h2><b>References</b></h2><br>
+<h2><b>References</b></h2>
 1. https://www.instructables.com/Binary-Game/ <br>
 2. https://forum.arduino.cc/t/binary-logic-brain-game/562325 <br>
 3. https://en.wikipedia.org/wiki/Binary_game <br>
