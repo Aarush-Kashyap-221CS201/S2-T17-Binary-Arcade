@@ -219,7 +219,7 @@ circuit</td>
 </details> <h2><b>Logisim Circuit Diagram</b></h2>
 <details>
   <summary>Detail</summary><br>
-  <img src="https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/blob/b8cf382c3aa622cd51cead541eec946ffd7cf4a9/Snapshots/Logisim%20output/1.png" />
+  <img src="Snapshots/Logisim output/1.png" >
 </details> <h2><b>Verilog Code</b></h2>
 <details>
   <summary>Detail</summary><br>
