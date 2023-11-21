@@ -212,7 +212,8 @@ circuit</td>
 </table>
 <br><br>
 <h2 align="center"><b>Flowchart</b></h2><br>
-![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/3c444026-31a2-4f92-b8bf-68eae2a45439) <br><br>
+![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/5b298f94-91cd-4e60-895e-f26723598705)
+<br><br>
 <h2 align="center"><b>Truth Table</b></h2><br>
 ![truth_table](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/2cfc2db7-d319-4c51-9339-f53eaa432473)
 </details> <h2><b>Logisim Circuit Diagram</b></h2>
