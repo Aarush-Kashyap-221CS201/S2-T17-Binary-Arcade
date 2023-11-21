@@ -217,11 +217,15 @@ circuit</td>
   
 <br><br>
 <h2 align="center"><b>Truth Table</b></h2><br>
-![truth_table](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/d1fb95ee-4ba8-4f57-bb06-595b5635496a)
+
+  ![truth_table](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/d1fb95ee-4ba8-4f57-bb06-595b5635496a)
+  
 </details> <h2><b>Logisim Circuit Diagram</b></h2>
 <details>
   <summary>Detail</summary><br>
+  
   ![logisim](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/ee61a86e-cf74-4083-b960-db74739397fa)
+  
 </details> <h2><b>Verilog Code</b></h2>
 <details>
   <summary>Detail</summary><br>
