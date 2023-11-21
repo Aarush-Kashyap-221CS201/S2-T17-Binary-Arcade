@@ -212,7 +212,9 @@ circuit</td>
 </table>
 <br><br>
 <h2 align="center"><b>Flowchart</b></h2><br>
-![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/5b298f94-91cd-4e60-895e-f26723598705)
+
+  ![flowchart](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/5b298f94-91cd-4e60-895e-f26723598705)
+  
 <br><br>
 <h2 align="center"><b>Truth Table</b></h2><br>
 ![truth_table](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade/assets/148947264/d1fb95ee-4ba8-4f57-bb06-595b5635496a)
